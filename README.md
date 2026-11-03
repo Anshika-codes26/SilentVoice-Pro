@@ -44,7 +44,7 @@
 Follow these steps to run the project locally on your machine:
 
 1. **Clone the repository:**
-   git clone [https://github.com/your-username/SilentVoice-Pro.git](https://github.com/your-username/SilentVoice-Pro.git)
+   git clone https://github.com/Anshika-codes26/SilentVoice-Pro.git
    cd SilentVoice-Pro
 
 2. **Install Python Dependencies:**
